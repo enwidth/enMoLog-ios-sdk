@@ -31,7 +31,5 @@ You can log using below syntax. Other log levels are info, warn, error and fatal
 RLog.debug("Log text")
 ```
 
-You can chanege the log ever from https://enmolgger.enwidth.com
-
-For any queries contact me at contact@enwidth.com
+You can chanege the log level from https://enmolgger.enwidth.com. For any queries contact me at contact@enwidth.com
 
