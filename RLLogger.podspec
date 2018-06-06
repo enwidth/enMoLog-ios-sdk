@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "RLLogger"
-  s.version      = "0.0.4"
-  s.summary      = "A short description of RLLogger."
+  s.name         = "enMoLog"
+  s.version      = "0.0.5"
+  s.summary      = "A short description of enMoLog."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = "RLLogger description"
 
-  s.homepage     = "http://this/RLLogger"
+  s.homepage     = "http://enMoLoger.enwidth.com"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
